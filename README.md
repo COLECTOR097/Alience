@@ -12,7 +12,7 @@ The website is optimized for both desktop and mobile devices, and includes featu
 
 To run this project, simply download or clone the repository to your computer and open the index.html file in a web browser.
 
-## git clone https://github.com/your-username/alience.git
+## git clone https://github.com/COLECTOR097/Alience.git
 
 # Usage
 
